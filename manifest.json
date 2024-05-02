@@ -1,0 +1,10 @@
+{
+    "short_name": "PrizepoolCalculator",
+    "name": "Poker Prizepool Calculator",
+    "start_url": "/",
+    "background_color": "white",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "white"
+  }
+  
